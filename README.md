@@ -119,7 +119,21 @@ ________________________________________________________________________________
 The Retail Sales Insights Agent proved to be a valuable tool for transforming raw retail data into actionable business intelligence. Setting up the agent in Databricks was straightforward, and once connected to the dataset, it delivered accurate and efficient responses to a broad range of business queries.
 
 The most challenging aspect was developing precise agent instructions. Vague prompts occasionally resulted in generic outputs, requiring refinement to achieve more specific and data-driven responses. Validating the agent’s outputs against the raw dataset was also time-intensive but necessary to ensure accuracy and reliability.
-
 If approached differently, the agent instructions would be more structured from the beginning, clearly defining column names, expected output formats, and the type of insights required. Additionally, using a larger dataset with timestamps and richer customer demographics would enhance the agent’s ability to identify deeper patterns and trends.
 
 Despite these challenges, the project successfully demonstrated how AI-powered data agents can democratise data analysis, enabling users to access meaningful insights without requiring advanced technical expertise.
+____________________________________________________________________________________________________________________________________________________________________________
+## Project Files
+
+| File                          | Description                          |
+|-------------------------------|--------------------------------------|
+| Retail_Sales_Data_Agent.docx | Full project write-up document       |
+| retail_sales_data.csv        | The retail sales dataset used        |
+| README.md                    | This file                            |
+
+____________________________________________________________________________________________________________________________________________________________________________
+## By
+Mono Sejake 
+Student Number: 2805001565
+Date: 24 May 2026
+____________________________________________________________________________________________________________________________________________________________________________
